@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(5, 221, 233);
+    color: rgb(242, 255, 0);
+}
+
+@font-face {
+    font-family: "Pinyon_Script";
+    src: url(fonts/Pinyon_Script\,Public_Sans\,Source_Code_Pro/);
+}
+
+h1{
+    font-size: 20rem;
+    font-family: "Pinyon_Script";
+    src: url(fonts/Cinzel\,Pinyon_Script\,Public_Sans\,Source_Code_Pro/otf);
+}
+
+p{ 
+    font-family: "Pinyon_Script";
+    src: url(fonts/Cinzel\,Pinyon_Script\,Public_Sans\,Source_Code_Pro/otf);
+    position: absolute;
+    top: 0%;
+    left: 0cqi;
+    font-size: 500px;
+    mix-blend-mode: luminosity;
+}
+
